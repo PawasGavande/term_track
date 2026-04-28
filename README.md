@@ -43,17 +43,4 @@ term_track/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository
-```bash
-git clone https://github.com/PawasGavande/term_track.git
-2.Navigate to project directory
-cd term_track
-3. Build using Maven
-mvn clean install
-4. Deploy on Apache Tomcat server
-▶️ Usage
-Run the application on Tomcat
-Access via browser:
-http://localhost:8080/term_track
+Improved UI responsiveness (minor update)
